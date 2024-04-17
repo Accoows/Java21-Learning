@@ -1,0 +1,11 @@
+Pour les variables les types ont des limites :
+
+TYPES PRIMITIFS :
+- int (De base) -> De -2.147.483.648 à 2.147.483.647
+- long (Pour aller plus loin) (64bits) -> + que int
+- short (16bits) -> De -32.768 à 32.767
+- byte (8bits) -> De -128 à 127
+- char -> Pour les caractères
+- float (32bits) -> Nombres floatant (0.1)
+- double (c'est un float en 64bits)
+- boolean (True ou False)
