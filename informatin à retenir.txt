@@ -9,3 +9,4 @@ TYPES PRIMITIFS :
 - float (32bits) -> Nombres floatant (0.1)
 - double (c'est un float en 64bits)
 - boolean (True ou False)
+- var (Java 10+) -> Elle permet d'indiquer une variable de tout type ci-dessus (int,float,long,...)
