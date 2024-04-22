@@ -1,6 +1,9 @@
+INFORMATIONS UTILES POUR JAVA (A CONNAITRE):
+
+
 Pour les variables les types ont des limites :
 
-TYPES PRIMITIFS :
+TYPES :
 - int (De base) -> De -2.147.483.648 à 2.147.483.647
 - long (Pour aller plus loin) (64bits) -> + que int
 - short (16bits) -> De -32.768 à 32.767
@@ -10,3 +13,23 @@ TYPES PRIMITIFS :
 - double (c'est un float en 64bits)
 - boolean (True ou False)
 - var (Java 10+) -> Elle permet d'indiquer une variable de tout type ci-dessus (int,float,long,...)
+
+
+Types primitifs : int,long,char,boolean
+Types objets : String (on le différencie avec la majuscule)
+
+###############################
+
+Opérateurs relationnels (Algèbre de Boole):
+
+-> & (AND) (Utilisation dans des cas bien particulier)
+-> && (AND performant) : Il regarde la première valeur à gauche, si elle est FALSE il ne regarde pas à droite. 
+
+-> | (pip) (OR) (Utilisation dans des cas bien particulier)
+-> || (double pip) (OR) : Il regarde la première valeur à gauche, si elle est TRUE il ne regarde pas à droite.
+
+-> ^ (OR Exclusif) (true^true = false), (true^false = true), (false^true = true), (false^false = false)
+-> ! (NOT) (True -> False), (False -> True) (Devant la valeur booléenne)
+
+###############################
+
