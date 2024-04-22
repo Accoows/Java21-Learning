@@ -36,3 +36,12 @@ Opérateurs relationnels (Algèbre de Boole):
 -> 	++ Opérateur d'incrémentation (Ajoute +1 à la variable) (Soit devant , soit derrière la variable)
 ->	-- Opérateur décrémentation (Soustrait -1 à la variable) (Soit devant , soit derrière la variable)
 -> 	+ Opérateur de concaténation 
+->	printf("...",var1,var2...) : %d (type entier), %s (chaine de caractère), %f (floatant), %b (booléen)
+
+
+
+
+
+
+
+
