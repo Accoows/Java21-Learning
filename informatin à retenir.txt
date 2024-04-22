@@ -22,14 +22,17 @@ Types objets : String (on le différencie avec la majuscule)
 
 Opérateurs relationnels (Algèbre de Boole):
 
--> & (AND) (Utilisation dans des cas bien particulier)
--> && (AND performant) : Il regarde la première valeur à gauche, si elle est FALSE il ne regarde pas à droite. 
+-> 	& (AND) (Utilisation dans des cas bien particulier)
+-> 	&& (AND performant) : Il regarde la première valeur à gauche, si elle est FALSE il ne regarde pas à droite. 
 
--> | (pip) (OR) (Utilisation dans des cas bien particulier)
--> || (double pip) (OR) : Il regarde la première valeur à gauche, si elle est TRUE il ne regarde pas à droite.
+-> 	| (pip) (OR) (Utilisation dans des cas bien particulier)
+-> 	|| (double pip) (OR) : Il regarde la première valeur à gauche, si elle est TRUE il ne regarde pas à droite.
 
--> ^ (OR Exclusif) (true^true = false), (true^false = true), (false^true = true), (false^false = false)
--> ! (NOT) (True -> False), (False -> True) (Devant la valeur booléenne)
+-> 	^ (OR Exclusif) (true^true = false), (true^false = true), (false^true = true), (false^false = false)
+-> 	! (NOT) (True -> False), (False -> True) (Devant la valeur booléenne)
 
 ###############################
 
+-> 	++ Opérateur d'incrémentation (Ajoute +1 à la variable) (Soit devant , soit derrière la variable)
+->	-- Opérateur décrémentation (Soustrait -1 à la variable) (Soit devant , soit derrière la variable)
+-> 	+ Opérateur de concaténation 

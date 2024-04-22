@@ -1,5 +1,5 @@
 /*
-Exercice de codage 2 : Le cas de pluton Version 2
+Exercice de codage 3 : Le cas de pluton Version 2
  */
 
 public class HelloUniverse2 {
