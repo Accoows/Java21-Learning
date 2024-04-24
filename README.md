@@ -13,7 +13,7 @@ Ce répertoire est dédié à mon apprentissage de Java JDK 21. Vous y trouverez
 - [x] **Section 3 :** Les variables
 - [x] **Section 4 :** Les opérateurs
 - [x] **Section 5 :** Les structures de contrôle
-- [ ] **Section 6 :** La classe et l'objet
+- [x] **Section 6 :** La classe et l'objet
 - [ ] **Section 7 :** L'héritage et les interfaces
 - [ ] **Section 8 :** Classes et techniques utilitaires
 - [ ] **Section 9 :** Les structures de données
@@ -22,5 +22,5 @@ Ce répertoire est dédié à mon apprentissage de Java JDK 21. Vous y trouverez
 - [ ] **Section 12 :** Bonus
 
 # Ressources supplémentaires
--  [Documentation officielle de Java JDK 21](https://docs.oracle.com/en/java/javase/21/index.html) 
+- [Documentation officielle de Java JDK 21](https://docs.oracle.com/en/java/javase/21/index.html) 
 - [Cours Java sur Udemy](https://www.udemy.com/course/cours-complet-de-programmation-java-pour-debutants/learn) (Jean-Philippe Ehret)
