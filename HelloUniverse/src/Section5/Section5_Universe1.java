@@ -1,6 +1,8 @@
-package Section5;/*
+/*
 Exercice de codage 6 : Affichage conditionnel - Première instruction conditionnelle
 */
+
+package Section5;
 
 public class Section5_Universe1 {
 

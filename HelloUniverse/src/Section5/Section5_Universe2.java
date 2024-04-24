@@ -1,6 +1,8 @@
-package Section5;/*
+/*
 Exercice de codage 7 : Utiliser if et else
 */
+
+package Section5;
 
 public class Section5_Universe2 {
 

@@ -1,6 +1,8 @@
-package Section5;/*
+/*
 Exercice de codage 10 : La structure itérative avec le mot clé for
 */
+
+package Section5;
 
 public class Section5_Universe5 {
 

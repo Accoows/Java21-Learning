@@ -1,6 +1,8 @@
-package Section5;/*
+/*
 Exercice de codage 9 : Utiliser switch, case et default
 */
+
+package Section5;
 
 public class Section5_Universe4 {
 
