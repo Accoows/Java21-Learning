@@ -2,10 +2,12 @@ package Section5;/*
 Exercice de codage 10 : La structure itérative avec le mot clé for
 */
 
-public class Section5_Universe5 {
+public class Section5_Universe6 {
 
     public static void main(String... args){
-        for (int systemeSolaire = 7 ; systemeSolaire < 10 ; systemeSolaire++) {
+        int systemeSolaire = 7;
+        while (systemeSolaire < 10){
+            systemeSolaire++;
             switch (systemeSolaire) {
                 case 7:
                     System.out.println("On sait qu'au 16ème siècle, seules 7 planètes avaient été découvertes");
