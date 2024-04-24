@@ -38,7 +38,13 @@ Opérateurs relationnels (Algèbre de Boole):
 -> 	+ Opérateur de concaténation 
 ->	printf("...",var1,var2...) : %d (type entier), %s (chaine de caractère), %f (floatant), %b (booléen)
 
+###############################
 
+->	if () {}
+->	else {}
+
+-> Opérateur ternaire (écriture contracté du if/else avec une seule instruction System.out... ou autre)
+	System.out.println( condition d'un if ? "commentaire 1" + variable" (premère essaie du if) : "commentaire 2" (correspond à un else si le if ne peut-être validé) )
 
 
 

@@ -3,19 +3,20 @@ public class Section5_1 {
 
     public static void main(String... args){
 
-        int age = 443;
+        int age = 30;
         System.out.printf("Mon age est %d ans.", age);
 
-        if (age > 30) {
+        if (age >= 30) {
             System.out.println(" Oui, je fais plus jeune.");
         }
 
-        int autreAge = 50;
-        if (age > autreAge)
+        int autreAge = 25;
+        if (autreAge > 20 && age < 50)
         {
             System.out.println("L'age du capitaine est " + autreAge);
-            System.out.println("Hello");
-            System.out.println("World!");
+        }
+        else {
+            System.out.println("Le code ne permet pas d'afficher l'âge du capitaine.");
         }
     }
 }
