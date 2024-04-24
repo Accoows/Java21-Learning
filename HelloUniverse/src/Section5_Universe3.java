@@ -1,5 +1,5 @@
 /*
-Exercice de codage 7 : Utiliser if et else
+Exercice de codage 8 : Utiliser if, else et else if
 */
 
 public class Section5_Universe3 {
@@ -22,8 +22,7 @@ public class Section5_Universe3 {
             }
             else if (annee < 2006) {
                 systemeSolaire = 9;
-            }
-            else {
+            } else {
                 systemeSolaire = 8;
             }
             System.out.printf(phraseIntro,annee,systemeSolaire);
