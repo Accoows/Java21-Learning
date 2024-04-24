@@ -1,4 +1,4 @@
-/*
+package Section5;/*
 Exercice de codage 7 : Utiliser if et else
 */
 

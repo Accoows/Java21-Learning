@@ -1,4 +1,4 @@
-/*
+package Section5;/*
 Exercice de codage 6 : Affichage conditionnel - Première instruction conditionnelle
 */
 
