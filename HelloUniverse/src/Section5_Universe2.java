@@ -7,7 +7,7 @@ public class Section5_Universe2 {
     public static void main(String... args){
 
         String phraseIntro = "En %d, les planètes du système solaire étaient au nombre de : %d";
-        short systemeSolaire = 0;
+        short systemeSolaire;
         short annee = 2006;
 
         if (annee < 2006) {
