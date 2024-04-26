@@ -1,4 +1,4 @@
-/*
+package Section4;/*
 Exercice de codage 4 : Le cas de pluton Version 2
  */
 
