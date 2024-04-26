@@ -15,7 +15,7 @@ TYPES :
 - var (Java 10+) -> Elle permet d'indiquer une variable de tout type ci-dessus (int,float,long,...)
 
 
-Types primitifs : int,long,char,boolean
+Types primitifs : int,long,short,char,boolean
 Types objets : String (on le différencie avec la majuscule)
 
 ###############################
@@ -61,6 +61,8 @@ Structure itérative:
 	-> Utilisation du 'continue' pour cloturer le cycle en cours et passer au suivant après avoir vérifier l'affirmation demandée
 
 ############################### 
+
+Ecriture camel case : Un mot = une Majuscule
 
 
 
