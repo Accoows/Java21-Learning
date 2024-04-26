@@ -44,7 +44,7 @@ public class systemesolaire {
 
         Planete neptune = new Planete();
         neptune.nom = "Neptune";
-        uranus.diametre = 49532L;
+        neptune.diametre = 49532L;
         neptune.matiere = "gazeuse";
     }
 }
