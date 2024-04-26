@@ -39,15 +39,28 @@ Opérateurs relationnels (Algèbre de Boole):
 ->	printf("...",var1,var2...) : %d (type entier), %s (chaine de caractère), %f (floatant), %b (booléen)
 
 ###############################
+Structure conditionnel:
 
 ->	if () {}
 ->	else {}
+->	else if () {}
 
 -> Opérateur ternaire (écriture contracté du if/else avec une seule instruction System.out... ou autre)
 	System.out.println( condition d'un if ? "commentaire 1" + variable" (premère essaie du if) : "commentaire 2" (correspond à un else si le if ne peut-être validé) )
 
 
+Structure itérative:
 
+->	switch/case (permet de faire des appels à un résultat bien spécifique (int variable = 5 alors on appel la case 5:)
+->	default (permet d'afficher un résultat pour le reste des possibilités de la variable avec les cases qui ne sont pas traités)
+
+->	for (instruction à effectuer au démarrage ;instruction d'arrêt; instruction à effectuer à chaque cycle) {}
+
+->	while () {}
+	-> Utilisation du 'break' pour cloturer le cycle
+	-> Utilisation du 'continue' pour cloturer le cycle en cours et passer au suivant après avoir vérifier l'affirmation demandée
+
+############################### 
 
 
 
